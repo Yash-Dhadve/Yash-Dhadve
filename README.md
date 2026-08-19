@@ -1,35 +1,38 @@
 <div align="center">
-  <h1>Yash Dhadve</h1>
+  <img src="./assets/devil-banner-2.svg" alt="Inferno banner for Yash Dhadve" style="max-width:100%;height:auto;" />
+</div>
+
+<div align="center" style="margin-top: -64px;">
+  <img src="./assets/devil-logo.svg" alt="Devil logo" width="220" />
 </div>
 
 <div align="center">
-  <img src="./assets/devil-banner.svg" alt="Inferno banner for Yash Dhadve" />
-</div>
+  <img src="./assets/avatar.png" alt="Avatar of Yash Dhadve" width="140" style="border-radius:8px;box-shadow:0 6px 18px rgba(255,40,40,0.08);" />
 
-<div align="center">
-  <img src="./assets/avatar.png" alt="Avatar of Yash Dhadve" width="180" />
-</div>
+  
+  
+  <h1 style="margin-top:8px;">Yash Dhadve</h1>
+  <strong>Full Stack Developer | Cloud | Automation | Cybersecurity</strong>
 
-<div align="center">
+  <p style="color:#cfc2b9;max-width:760px;margin:8px auto 18px;">
+    Forging reliable full-stack systems with Django, Python, and pragmatic frontend tooling. Technical, tactical, and focused on production-ready delivery.
+  </p>
 
-**Web Developer | Python Developer | Full-Stack Builder**
-
-Forging full-stack systems with Django, JavaScript, cloud tooling, and automation.
-
-<a href="https://github.com/Yash-Dhadve">GitHub</a> |
-<a href="https://www.linkedin.com/in/yash-dhadve/">LinkedIn</a> |
-<a href="https://yashdhadve-dev.vercel.app/">Portfolio</a> |
-<a href="mailto:yashdhadve.work@gmail.com">Email</a>
-
+  <p>
+    <a href="https://github.com/Yash-Dhadve"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/yash-dhadve/"><img src="https://img.shields.io/badge/LinkedIn-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://yashdhadve-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A0F0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:yashdhadve.work@gmail.com"><img src="https://img.shields.io/badge/Email-B7410E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 <div align="center">
   <img src="./assets/devil-divider.svg" alt="Inferno divider" />
 </div>
 
-## About the Flame
+## 🔥 ABOUT THE DEVIL
 
-I'm Yash Dhadve, a developer from Pune, Maharashtra, building practical web and Python solutions with a strong focus on backend systems, clean interfaces, and cloud-ready deployment.
+I'm Yash Dhadve — a developer from Pune, Maharashtra, building practical web and Python solutions with a strong focus on backend systems, clean interfaces, and cloud-ready deployment.
 
 - Web Developer and Python Developer
 - Hands-on with full-stack web apps using Django, HTML, CSS, JavaScript, and Bootstrap
@@ -38,63 +41,63 @@ I'm Yash Dhadve, a developer from Pune, Maharashtra, building practical web and 
 - Completed B.Sc. Computer Science from the same institution
 - Experience includes a Python Developer internship at Codtech IT Solutions Pvt. Ltd.
 
-## Currently Forging
+## 🔧 CURRENTLY FORGING
 
-- Building `LARA`, an autonomous reasoning agent for planning, tool execution, and real-world system interaction
+- Building `LARA` — an autonomous reasoning agent for planning, tool execution, and real-world system interaction
 - Strengthening full-stack project delivery with Django-based applications
 - Exploring automation, cloud deployment, and product-oriented development workflows
 
-## Weapon Vault
+## ⚔️ MY WEAPONS
 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-8B1E1E?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-5B0F0F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-2B2B2B?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-ff3b3b?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-8b1e1e?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-2b2b2b?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-B7410E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-7F1D1D?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-1F1F1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-4C1D1D?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/CSS3-7f1d1d?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-4c1d1d?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Django-0B3D2E?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-5A1717?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Django-9b2a2a?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-5a1717?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-1D3557?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-5A2600?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6b1f1f?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-5a2600?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-123524?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ### Cloud / DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-3B1B1B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0F3B57?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GCP-4A0F0F?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-3b1b1b?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0f3b57?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCP-4a0f0f?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-4B1E1E?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-4b1e1e?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-5C1111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-5c1111?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## Forged Projects
+## 💀 FORGED PROJECTS
 
 <table>
   <tr>
@@ -124,41 +127,34 @@ I'm Yash Dhadve, a developer from Pune, Maharashtra, building practical web and 
   </tr>
 </table>
 
-## GitHub Inferno
+## 📊 GITHUB INFERNO
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Dhadve&theme=gruvbox" alt="Profile details summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-Dhadve&theme=nightowl" alt="Profile details summary card" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash-Dhadve&theme=gruvbox" alt="GitHub summary stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Dhadve&theme=gruvbox" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yash-Dhadve&theme=nightowl" alt="GitHub summary stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yash-Dhadve&theme=nightowl" alt="Repositories by language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yash-Dhadve&theme=gruvbox" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yash-Dhadve&theme=gruvbox&utcOffset=5.5" alt="Most productive time" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Dhadve&bg_color=0b0b0b&color=fff5f5&line=ff3b3b&point=ff7a18&area_color=ff3b3b&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
+
+## 🐍 CONTRIBUTION HELL
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Dhadve&bg_color=0d0d0d&color=f5f5f5&line=ff4d4d&point=ff7a18&area_color=ff4d4d&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://ghchart.rshah.org/ff3b3b/Yash-Dhadve" alt="Contribution chart" />
 </div>
 
-## Summon Me
+## 📡 SUMMON ME
 
 <p align="center">
-  <a href="https://github.com/Yash-Dhadve">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-dhadve/">
-    <img src="https://img.shields.io/badge/LinkedIn-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://yashdhadve-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4A0F0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:yashdhadve.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B7410E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/Yash-Dhadve"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/yash-dhadve/"><img src="https://img.shields.io/badge/LinkedIn-8B1E1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yashdhadve-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4A0F0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:yashdhadve.work@gmail.com"><img src="https://img.shields.io/badge/Email-B7410E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
@@ -166,5 +162,5 @@ I'm Yash Dhadve, a developer from Pune, Maharashtra, building practical web and 
 </div>
 
 <div align="center">
-  <strong>Dark. Technical. Mysterious. Built to ship.</strong>
+  <strong>Dark. Powerful. Technical. Mysterious. Built to ship.</strong>
 </div>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Inferno flames">
+  <defs>
+    <linearGradient id="fg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ff4d4d"/>
+      <stop offset="50%" stop-color="#ff7a18"/>
+      <stop offset="100%" stop-color="#ffcc33"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="140" fill="#070707" />
+
+  <g transform="translate(0,40)" opacity="0.95">
+    <path d="M0 80 C60 20, 120 120, 180 60 C240 0, 300 100, 360 50 C420 0, 480 110, 540 60 C600 10, 660 90, 720 40 C780 -10, 840 100, 900 60 L900 140 L0 140 Z" fill="url(#fg)">
+      <animate attributeName="d" dur="4s" repeatCount="indefinite" values="M0 80 C60 20, 120 120, 180 60 C240 0, 300 100, 360 50 C420 0, 480 110, 540 60 C600 10, 660 90, 720 40 C780 -10, 840 100, 900 60 L900 140 L0 140 Z; M0 90 C60 10, 120 100, 180 40 C240 -20, 300 90, 360 30 C420 -30, 480 100, 540 40 C600 -10, 660 80, 720 20 C780 -40, 840 90, 900 50 L900 140 L0 140 Z; M0 80 C60 20, 120 120, 180 60 C240 0, 300 100, 360 50 C420 0, 480 110, 540 60 C600 10, 660 90, 720 40 C780 -10, 840 100, 900 60 L900 140 L0 140 Z"/>
+    </path>
+  </g>
+
+</svg>
