@@ -7,6 +7,10 @@
 </div>
 
 <div align="center">
+  <img src="./assets/avatar.png" alt="Avatar of Yash Dhadve" width="180" />
+</div>
+
+<div align="center">
 
 **Web Developer | Python Developer | Full-Stack Builder**
 
