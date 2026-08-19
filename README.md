@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/yash.png" width="120" alt="Infernal Emblem"/>
+      <img src="./assets/yash.png" width="200" style="border-radius: 12px; border: 2px solid #ff2d2d; max-width: 100%;" alt="Yash Dhadve"/>
     </td>
   </tr>
 </table>
