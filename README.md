@@ -2,17 +2,11 @@
   <img src="./assets/devil-banner-2.svg" alt="Inferno banner for Yash Dhadve" style="max-width:100%;height:auto;" />
 </div>
 
-<div align="center" style="margin-top: -64px;">
-  <img src="./assets/devil-logo.svg" alt="Devil logo" width="220" />
-</div>
+<div align="center" style="margin-top: -72px;">
+  <img src="./assets/devil-logo.svg" alt="Devil logo" width="320" />
 
-<div align="center">
-  <img src="./assets/avatar.png" alt="Avatar of Yash Dhadve" width="140" style="border-radius:8px;box-shadow:0 6px 18px rgba(255,40,40,0.08);" />
-
-  
-  
-  <h1 style="margin-top:8px;">Yash Dhadve</h1>
-  <strong>Full Stack Developer | Cloud | Automation | Cybersecurity</strong>
+  <h1>Yash Dhadve</h1>
+  <strong>Full Stack Developer • Cloud • Automation • Cybersecurity</strong>
 
   <p style="color:#cfc2b9;max-width:760px;margin:8px auto 18px;">
     Forging reliable full-stack systems with Django, Python, and pragmatic frontend tooling. Technical, tactical, and focused on production-ready delivery.
