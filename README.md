@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/devil-logo.svg" width="120" alt="Infernal Emblem"/>
+      <img src="./assets/yash.png" width="120" alt="Infernal Emblem"/>
     </td>
   </tr>
 </table>
