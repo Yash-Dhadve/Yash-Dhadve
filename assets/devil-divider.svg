@@ -1,0 +1,26 @@
+<svg width="1600" height="92" viewBox="0 0 1600 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Inferno divider</title>
+  <desc id="desc">Decorative divider with red and ember accents.</desc>
+  <defs>
+    <linearGradient id="line" x1="120" y1="46" x2="1480" y2="46" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2B0A0A" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#B01818"/>
+      <stop offset="0.5" stop-color="#FF6A00"/>
+      <stop offset="0.82" stop-color="#B01818"/>
+      <stop offset="1" stop-color="#2B0A0A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+  </defs>
+
+  <rect width="1600" height="92" fill="transparent" />
+  <path d="M100 46H700" stroke="url(#line)" stroke-width="3" stroke-linecap="round" />
+  <path d="M900 46H1500" stroke="url(#line)" stroke-width="3" stroke-linecap="round" />
+  <g filter="url(#glow)">
+    <path d="M736 58C744 39 755 28 768 18C774 30 775 41 769 56C757 53 746 54 736 58Z" fill="#FF8A1E" />
+    <path d="M864 58C856 39 845 28 832 18C826 30 825 41 831 56C843 53 854 54 864 58Z" fill="#FF8A1E" />
+    <circle cx="800" cy="46" r="14" fill="#FF4D4D" />
+    <circle cx="800" cy="46" r="6" fill="#FFE2C2" />
+  </g>
+</svg>
